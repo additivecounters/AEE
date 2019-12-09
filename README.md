@@ -1,6 +1,6 @@
-### Anonymous repository for: 
+### Repository for: 
 
-## "Faster and More Aaeeurate Measurement through Additive-Error Counters"
+## "Faster and More Accurate Measurement through Additive-Error Counters"
 
 
 #### To compile the code, run Make in the terminal.
